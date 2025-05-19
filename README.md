@@ -30,6 +30,8 @@ This project investigates how the physical distance between lodging options (Air
 - **Google Hotels API** – Coordinates, star ratings, hotel class, review counts
 - **Google Vacation Rentals API** – Coordinates, overall ratings
 - **Kaggle Airbnb Dataset** – Coordinates, prices, review scores
+  
+![Process flow](./Process%20flow.png)
 
 ## 🛠️ Tools and Technologies
 
