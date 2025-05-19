@@ -12,8 +12,6 @@ This project investigates how the physical distance between lodging options (Air
 - 📝 Number of reviews
 - 💲 Restaurant pricing and sentiment trends
 
-It is part of the **GB 760 Data Tech Course Project** at the Wisconsin School of Business.
-
 ## 💡 Business Questions
 
 1. **How does proximity to lodging influence Yelp restaurant review ratings?**
